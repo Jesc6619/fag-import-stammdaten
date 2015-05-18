@@ -1,0 +1,17 @@
+{
+  "name": "kuth-fag-import-stammdaten",
+  "version": "0.0.1",
+  "description": "kuth-fag-import-stammdaten",
+  "main": "fagDataImport.js",
+  "author": {
+    "name": "Jens",
+    "email": "jens.schweitzer@t-online.de"
+  },
+  "dependencies": {
+    "csv": "^0.4.2",
+    "csv-parse": "^0.1.1",
+    "jasmine": "^2.3.1",
+    "jasmine-node": "^1.14.5",
+    "underscore": "^1.8.2"
+  }
+}
